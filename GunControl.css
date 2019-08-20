@@ -152,3 +152,28 @@ column-count: 2;
 #Statistics{
   background-color: #ffcc80
 }
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.links {
+  color: black;
+}
+
+#source{
+  background-color: #ff9900;
+}
+#info-box {
+display: none;
+position: absolute;
+top: 0px;
+left: 0px;
+z-index: 1;
+background-color: #ff9900;
+border: 2px solid #BF0A30;
+border-radius: 5px;
+padding: 5px;
+font-family: arial;
+column-count: 2;
+}
