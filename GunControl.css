@@ -155,6 +155,7 @@ column-count: 2;
 
 table, th, td {
   border: 1px solid black;
+  padding-left: 100px;
 }
 
 .links {
