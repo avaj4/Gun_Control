@@ -1,6 +1,6 @@
 
 *{
-background-color: #EB9100;
+background-color: #ff9900;
 }
 .center {
 display: block;
@@ -147,4 +147,8 @@ border-radius: 5px;
 padding: 5px;
 font-family: arial;
 column-count: 2;
+}
+
+#Statistics{
+  background-color: #ffcc80
 }
